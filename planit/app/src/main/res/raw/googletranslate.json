@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "heroic-district-296307",
+  "private_key_id": "c72d9c9910bf2925b6ac94b3f13836b6d62efda5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC80a/Vx+UjzpT6\nbTA5csK8l5rHN3SKod09MgsNrFh318Za6qZUL0OXCym778LO0dS35U4kXKOL+Ya5\nA8r34uFk/1qWgDnV3m/T598DBGiEQi89KdVb5bPnBDmgMUMxu5eJoiiSMe4rhv56\ncx7KfIBpNkODR5bmOD713dGvyGulBNHqMe5PZalrQCvoaKxcTLlAWfA7lok8PRej\nYnxBKsqxEhBoPcdxHwAfqV4e8Uh/G220+EFq2H8srR/dJKfboLug63GxLnThq5ZU\neL1fPpSnidbf87bhoIJh1CUetkydCZN74Se8Sz4WsLXIgWuwzj3do1BvRarVkby6\nVBRwod2pAgMBAAECggEAAYZfRPrl7wYYn7rxpmUfajeVxDuQDkrtFZH7KlN3oUGY\nq5aR6DgkaCTH2DsSjyROrXtW9sMfT7u3+S4tBl1KhcvsUnSnAuuzsDngEewrAnZu\nXzvmWKsaatcFWZLAo5/RfUyzOy3umHpOErsWjMDP7E9q+Cm4ZEJ9e1Coj/Qi9Jjt\n9X+HZWLzVUoW7i4QYlCTOVjbWirh221ll5ajKEPxVO0rAcfdD7hAGwYArZOImS2m\nQMQEqOg7DkFUrZNftLp9ruot5/n+fIiRTnMLkdfBtwxWseDm5WLoCopJkpyMvLX/\nwH9VKSuzfE5u1NRvhvL32SiMSQZ4D57Xoofb4onsIQKBgQD/KhJ5SWMA3gf7IWNA\ncTYecRpStLYSc41Rwj0Ha6Ryn08EtF+4DOPjnX9Wqm7xpe9iga9bB5ltYbJqn01R\ndQif/TnY66ay9CAqP1DzoskABIKJ5KZGJofad2G+XYD4FrPP2C0spTFe6lXnaiEV\nmgP6Wg9TMY7nqel3SReV4Xdt5QKBgQC9b/3ITUB8Sd7/qch39Yd7XSXzIHyMtSwo\nbQoY7/2zX2/icEIrvBD7yxqbk+Pe5wj3TOux91mlY4xUJ5EROoccoWLBU1dt3R4C\n8H1COjDZBLTY4Xd0MnENDaQIv9R4Dys9dpd6GWkN3fMZeeeuxMOiV63ZeqUWlaFr\nj46x/S/UdQKBgGTu+4fGo8cADSAlwOEI52N7UfJNUYhS9R/WOdXpmo9MvTEbOJHR\nZ4PuFSTvHhuwi9Tnf7n+c451CuJqSWdjaBoBTRSlgrdfIioUCa2WQvQi1JA/RhaR\nv0OH3b4ztoRsVoxs8tGqNrFY+MoljRjCZ7hsT4uVGvZAm/13iEDdgySRAoGAdIeB\ne0daFZpzXJ2aPYCBmLdR8t7W/s8rnKqGfZSTYVWhw47+hVyordrgQTeWArXn5Agj\nLFRVhtFXrySvrgNsvYXg879KlsBgB7rbsnONPNISVR9MleO5eyga8W7fSgM6vBJJ\nV8htwSP4uIEurWlIVoLM5Gz3RI9CvqGOS5rNY0kCgYAMi92hVAfCKCn+por3kzxX\nlcUqEnqyJFmMSLbcKg4X2BH8798PrvgCIvh0rVBtIivhdha/VPia4tsIV4CUjNgz\nHRZatue7l6MDsyV3cp1hfXGWgUtgIyACwfdZ6RlF/23BT3cK1p9UwXybSdWobTE7\n6/9cEOhaKb5So71Cv16lPQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "graduate-project-translate@heroic-district-296307.iam.gserviceaccount.com",
+  "client_id": "104675499368137853532",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/graduate-project-translate%40heroic-district-296307.iam.gserviceaccount.com"
+}

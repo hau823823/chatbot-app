@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Plan it</string>
+    <string name="enteruname">輸入您的名字</string>
+    <string name="enterchatroom">進入聊天</string>
+    <string name="name">Name</string>
+    <string name="hello">Hello</string>
+    <string name="message">Message…</string>
+    <string name="send">Send</string>
+    <string name="hello_my_name">Hello my name is peichi</string>
+    <string name="robot">robot</string>
+    <string name="home">Home</string>
+    <string name="chatbox">聊天機器人</string>
+    <string name="schedule">我的行程</string>
+    <string name="favorite">已收藏</string>
+    <string name="media">社群資訊</string>
+    <string name="profile">Profile</string>
+    <string name="logout">登出</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user">user</string>
+
+    <string name="title">旅遊規劃聊天機器人</string>
+    <string name="slogan">BON \t VOYAGE</string>
+    <string name="login_1">註冊</string>
+    <string name="login_2">登入</string>
+
+    <string name="user_name">使用者名稱</string>
+    <string name="password">密碼</string>
+
+    <string name="re">推薦關鍵字</string>
+    <string name="search">搜尋</string>
+    <string name="search_">搜尋</string>
+    <string name="re_btn1">打卡熱點</string>
+    <string name="re_btn2">約會聖地</string>
+    <string name="re_btn3">人氣景點</string>
+    <string name="re_btn4">旅遊補助</string>
+    <string name="re_btn5">熱搜</string>
+    <string name="classify">分類</string>
+
+    <string name="nine_one">旅遊景點</string>
+    <string name="email">Email</string>
+    <string name="dcard_popular">Dcard台北美食熱門文章</string>
+    <string name="dcard_new">Dcard台北美食最新文章</string>
+    <string name="infobar">infobar</string>
+    <string name="article_title">Article Title</string>
+    <string name="search_name">search_name</string>
+    <string name="search_address">search_address</string>
+    <string name="search_time">search_time</string>
+    <string name="search_phone">search_phone</string>
+    <string name="search_introduce">search_introduce</string>
+    <string name="addfavorite">加入收藏</string>
+    <string name="my_favorite">我的收藏</string>
+    <string name="restaurant">餐廳</string>
+    <string name="drink">飲品</string>
+    <string name="coffee">咖啡店</string>
+    <string name="museum">博物館</string>
+    <string name="hotel">旅館</string>
+    <string name="landmark">地標</string>
+    <string name="nightmarket">夜市</string>
+    <string name="park">公園</string>
+    <string name="sec">景點</string>
+    <string name="all_schedule">所有行程</string>
+    <string name="plan_schedile">行程規劃</string>
+    <string name="date">日期</string>
+    <string name="wel">WEL</string>
+    <string name="come">come</string>
+    <string name="w">w</string>
+    <string name="e">E</string>
+    <string name="l">L</string>
+    <string name="c">C</string>
+    <string name="o">O</string>
+    <string name="m">M</string>
+    <string name="delete">DELETE</string>
+    <string name="day">DAY</string>
+    <string name="day_">DAY:</string>
+    <string name="PENNY">佩妮</string>
+    <string name="desert">甜點</string>
+    <string name="foooood">美食 無敵霹靂部落客</string>
+
+</resources>
